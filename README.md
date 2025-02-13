@@ -19,7 +19,7 @@ This project aims to assist healthcare providers in estimating the **length of a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/predict-hospital-stay.git
+   git clone https://github.com/nileshnwani/Predicating-Length-of-stay.git
    ```
    
 2. Navigate to the project directory:
@@ -31,7 +31,7 @@ This project aims to assist healthcare providers in estimating the **length of a
   pip install -r requirements.txt
   ```
 4. Run the Flask app:
-  ``bash
+  ```bash
   python app.py
   ```
 5. Open http://127.0.0.1:5000/ in your browser.
