@@ -37,16 +37,16 @@ This project aims to assist healthcare providers in estimating the **length of a
 5. Open http://127.0.0.1:5000/ in your browser.
  
 ## 📊 Model Details
--**Preprocessing:** One-hot encoding for categorical variables, StandardScaler for numerical features.
--**Algorithm:** Random Forest Regressor
--**Training Data:** Healthcare Investments & Hospital Stay Data.
+-**Preprocessing:** One-hot encoding for categorical variables, StandardScaler for numerical features.<br>
+-**Algorithm:** Random Forest Regressor<br>
+-**Training Data:** Healthcare Investments & Hospital Stay Data.<br>
 
 ## 🎯 Usage
-Enter Location, Time, MRI Units, CT Scanners, and Hospital Beds.
-Click Predict to estimate the length of hospital stay.
-The model will output the predicted stay duration in days.
+Enter **Location, Time, MRI Units, CT Scanners, and Hospital Beds**<br>
+Click **Predict** to estimate the **length of hospital stay**<br>
+The model will output the predicted stay duration in **days**<br>
 
 
-<b>Happy coding! 🚀<b>
+<b>**Happy coding! 🚀**<b>
 
 
